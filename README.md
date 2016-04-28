@@ -17,8 +17,9 @@ Can currently open a .sav file and read the following:
 * Trainer ID
 * Time Played
 * Items in Pocket
-* items in PC
+* Items in PC
 * Money
+* Coins in Coin Case
 * Checksum
 * Current Box selected
 * Pok&#233;dex Owned and Seen stats
