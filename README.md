@@ -1,6 +1,7 @@
 ﻿# Readme for Pok&#233;mon Save File Reader #
 
-by Lyndon Armitage
+2013 Lyndon Armitage
+2015 Daniell Mesquita
 
 
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
@@ -31,4 +32,4 @@ Note that this may crash your browser for files with a lot of bytes (i.e. bigger
 
 ### Copyright: ###
 
-Pok&#233;mon © 2002-2015 Pok&#233;mon. © 1995-2015 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
+Pok&#233;mon © 2002-2016 Pok&#233;mon. © 1995-2016 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
