@@ -279,7 +279,7 @@ footer a:hover {
 	height: calc(100% - 102px);
 	position: fixed;
 	top: 102px;
-	overflow-y: overlay;
+	overflow: auto;
 }
 
 .return {
