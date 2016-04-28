@@ -274,14 +274,6 @@ footer a:hover {
 	pointer-events: all;
 }
 
-.scroller {
-	width: 100%;
-	height: calc(100% - 102px);
-	position: fixed;
-	top: 102px;
-	overflow: auto;
-}
-
 .return {
 	float: left;
 	font-size: 30px;
