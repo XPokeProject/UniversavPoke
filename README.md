@@ -1,6 +1,8 @@
 ﻿# Readme for Pok&#233;mon Save File Reader #
 
-by Lyndon Armitage
+2013-2015 Lyndon Armitage (creator of HTML5 Pokémon Save Reader)
+
+2015-2016 Daniell Mesquito (CEO of Universav organization)
 
 
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
@@ -15,8 +17,9 @@ Can currently open a .sav file and read the following:
 * Trainer ID
 * Time Played
 * Items in Pocket
-* items in PC
+* Items in PC
 * Money
+* Coins in Coin Case
 * Checksum
 * Current Box selected
 * Pok&#233;dex Owned and Seen stats
@@ -31,4 +34,4 @@ Note that this may crash your browser for files with a lot of bytes (i.e. bigger
 
 ### Copyright: ###
 
-Pok&#233;mon © 2002-2015 Pok&#233;mon. © 1995-2015 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
+Pok&#233;mon © 2002-2016 Pok&#233;mon. © 1995-2016 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
