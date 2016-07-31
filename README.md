@@ -1,8 +1,8 @@
 ﻿# Readme for Pok&#233;mon Save File Reader #
 
-2013 Lyndon Armitage
+2013-2015 Lyndon Armitage
 
-2015 Daniell Mesquita
+2015-2016 Daniell Mesquito
 
 
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
