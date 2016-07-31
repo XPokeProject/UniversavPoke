@@ -1,8 +1,8 @@
 ﻿# Readme for Pok&#233;mon Save File Reader #
 
-2013-2015 Lyndon Armitage
+2013-2015 Lyndon Armitage (creator of HTML5 Pokémon Save Reader)
 
-2015-2016 Daniell Mesquito
+2015-2016 Daniell Mesquito (CEO of Universav organization)
 
 
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
