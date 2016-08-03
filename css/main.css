@@ -6,6 +6,11 @@
 	   url('../fonts/PressStart2P.woff2') format('woff2'), /* Super Modern Browsers */
 }
 
+#licenses {
+    background: #fff;
+    color: #000;
+}
+
 body {
 	font-family: 'PressStart2P', Lucida Console, sans-serif;
 	background: #3350B3;
