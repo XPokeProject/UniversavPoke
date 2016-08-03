@@ -19,11 +19,11 @@ Can currently open a .sav file and read the following:
 * Items in Pocket
 * Items in PC
 * Money
-* Coins in Coin Case
+* Coins in Coin Case [NEW]
 * Checksum
 * Current Box selected
 * Pok&#233;dex Owned and Seen stats
-* Basic Location support (x, y, and map id)
+* Basic Location support (x, y, and map id) [Don't working]
 
 ## Other: ##
 
