@@ -3,13 +3,14 @@
 <head>
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
 	<link rel="icon" href="imgs/icon.svg" />
-	<title>Pok&#233; Universav</title>
+	<title>Universav Pok&#233;</title>
 	<link type="text/css" href="css/main.css" media="all" rel="stylesheet">
 	<link type="text/css" href="css/framework.css" media="all" rel="stylesheet">
 </head>
 <body>
-	<notmodern><div class="tophotspot"></div><header id="header"><div class="topbar-current" title="Open the options menu" onclick="$('#navmenu').toggle();return false"><img src="imgs/icon.svg" class="icon"><span class="navlocal">Poké Universav</span></div><div class="tabs-button" title="Manage openned tabs" onclick="$('#toptab').toggle();return false">4</div><ul class="tabs" id="toptab"><h1>Openned tabs</h1><li class="first current" id="button-tab1" onclick="$('#toptab').toggle();return false"><a href="#tab1" title="Welcome! To begin editing, select a Save File">Welcome<div class="tab-preview">To begin editing, select a Save File</div></a></li><li onclick="$('#toptab').toggle();return false"><a href="#tab2">Soon<div class="tab-preview"><b>Multi-tabs system comming soon!</b><span>Soon, we will add a multi-tab system for open multiple savegames!</span></div></div></a></li><li onclick="$('#toptab').toggle();return false"><a href="#tab2">Soon<div class="tab-preview"><b>Multi-tabs system comming soon!</b><span>Soon, we will add a multi-tab system for open multiple savegames!</span></div></div></a></li><li onclick="$('#toptab').toggle();return false"><a href="#tab2">Soon<div class="tab-preview"><b>Multi-tabs system comming soon!</b><span>Soon, we will add a multi-tab system for open multiple savegames!</span></div></div></a></li><li class="more" title="Add a new tab"><a>+</a></li></ul></header>
+	<notmodern><div class="tophotspot"></div><header id="header"><div class="topbar-current" title="Open the options menu" onclick="$('#navmenu').toggle();return false"><img src="imgs/icon.svg" class="icon"><span class="navlocal">Universav Poké</span></div><div class="tabs-button" title="Manage openned tabs" onclick="$('#toptab').toggle();return false">4</div><ul class="tabs" id="toptab"><h1>Openned tabs</h1><li class="first current" id="button-tab1" onclick="$('#toptab').toggle();return false"><a href="#tab1" title="Welcome! To begin editing, select a Save File">Welcome<div class="tab-preview">To begin editing, select a Save File</div></a></li><li onclick="$('#toptab').toggle();return false"><a href="#tab2">Soon<div class="tab-preview"><b>Multi-tabs system comming soon!</b><span>Soon, we will add a multi-tab system for open multiple savegames!</span></div></div></a></li><li onclick="$('#toptab').toggle();return false"><a href="#tab2">Soon<div class="tab-preview"><b>Multi-tabs system comming soon!</b><span>Soon, we will add a multi-tab system for open multiple savegames!</span></div></div></a></li><li onclick="$('#toptab').toggle();return false"><a href="#tab2">Soon<div class="tab-preview"><b>Multi-tabs system comming soon!</b><span>Soon, we will add a multi-tab system for open multiple savegames!</span></div></div></a></li><li class="more" title="Add a new tab"><a>+</a></li></ul></header>
 <nav id="navmenu">
+<div class="scroller">
 <ul class="tabs center"><li class="first current"><a href="#menutab1">File</a></li><li><a href="#menutab2">View</a></li><li><a href="#menutab3">Settings</a></li><li class="last"><a href="#menutab4">About</a></li></ul>
 
 <tab id="menutab1" class="tab-content clearfix" style="display: block;">
@@ -17,7 +18,7 @@ Comming soon!
 </tab>
 
 <tab id="menutab2" class="tab-content clearfix" style="display: none;">
-<ul>
+<ul class="menulist">
 <a><li title="A list with your most used and your favorite savegames for fast loading your work"><div><img src="imgs/page.svg"></div><p>Favorites (Soon)</p></li></a>
 </ul></tab>
 
@@ -25,8 +26,8 @@ Comming soon!
 Comming soon!</tab>
 
 <tab id="menutab4" class="tab-content clearfix" style="display: none;">
-<ul>
-<center><h1>Poké Universav</h1><h2>Version: 1.0.0</h2><span>2013-2015 Lyndon Armitage. (creator of HTML5 Pokémon Save Reader)<br/>2015-2016 Daniell Mesquito. (CEO of Universav organization)</span><br/>This program is free software; you can redistribute it and/or modify
+<ul class="menulist">
+<center><h1>Universav Poké</h1><h2>Version: 1.0.1</h2><span>2013-2015 Lyndon Armitage. (creator of HTML5 Pokémon Save Reader)<br/>2015-2016 Daniell Plasmmer. (CEO of Universav organization)</span><br/>This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; version 2 of the license.<br/>This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -34,6 +35,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 text of the GNU General Public License below for more details.</center>
 <a><li title="A log containing all changes historic in app and his respective contributors, version number and date"><div><img src="imgs/page.svg"></div><p>Changelog (Soon)</p></li></a><a><li title="Credits for items used in this app" onclick="$('#credits').toggle();return false"><div><img src="imgs/page.svg"></div><p>Credits</p></li></a><a><li title="Because this app will use cookies/local storage in future, an Privacy Policy will be needed. Comming soon!"><div><img src="imgs/page.svg"></div><p>Privacy Policy (Soon)</p></li></a><a><li title="A tabbed list containing open-source licenses of projects or his portions used here" onclick="$('#licenses').toggle();return false"><div><img src="imgs/page.svg"></div><p>Licenses</p></li></a><a><li title="Send your suggestions or report problems"><div><img src="imgs/page.svg"></div><p>Send Feedback (Soon)</p></li></a>
 </ul></tab>
+</div>
 </nav></notmodern>
 
 	<div class="scroller">
@@ -57,7 +59,7 @@ text of the GNU General Public License below for more details.</center>
 </div>
 <div class="menus"><div id="credits"><div class="return" onclick="$('#credits').toggle();return false">Return</div><h1>Credits</h1><div class="scroller">All sprites, icons or any trademarks presents in this app are property of its respective owners.<h1>GitHub icon</h1><p>GitHub's icon/logo is intectual property of GitHub © 2016 GitHub, Inc.</p><h1>Tabs system</h1><p>Tabs menu from kickstart.js, which is part of 99Lime.com's HTML KickStart by Joshua Gatcke.</p><h1>The Pokémon Franchise</h1>Pokémon © 2002-2016 Pokémon. © 1995-2016 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names are trademarks of Nintendo.<br/>
 </div></div>
-<div id="licenses"><div class="return" onclick="$('#licenses').toggle();return false">Return</div><h1>Licenses</h1><div class="scroller"><ul class="tabs center fixedtab"><li class="first current"><a href="#licenses-tab1">Poké Universav</a></li><li class="last"><a href="#licenses-tab2">HTML KickStart</a></li></ul><tab id="licenses-tab1" class="tab-content clearfix" style="display: block;">This program is free software; you can redistribute it and/or modify
+<div id="licenses"><div class="return" onclick="$('#licenses').toggle();return false">Return</div><h1>Licenses</h1><div class="scroller"><ul class="tabs center fixedtab"><li class="first current"><a href="#licenses-tab1">Universav Poké</a></li><li class="last"><a href="#licenses-tab2">HTML KickStart</a></li></ul><tab id="licenses-tab1" class="tab-content clearfix" style="display: block;">This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; version 2 of the license.<br><br>This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
