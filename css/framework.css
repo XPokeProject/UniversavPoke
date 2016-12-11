@@ -19,7 +19,7 @@
 }
 
 header {
-	background: white;
+	background: rgb(255, 220, 30);
 	position: fixed;
 	top: 0;
 	width: 100% !important;
@@ -81,7 +81,7 @@ ul.tabs.contabs{margin:10px 0 -1px 0;padding:0;width:100%;border-bottom:1px dott
 	color: #3350B3;
 	border-bottom: 1px solid;
 	border-right: 1px solid;
-	background: rgb(255, 220, 30);
+	background: rgba(255, 255, 255, 0.9);
 	border-color: rgb(69, 69, 69);
 	box-shadow: 0 0 15px 1px #000;
 	padding: 10px 0 0 0;
