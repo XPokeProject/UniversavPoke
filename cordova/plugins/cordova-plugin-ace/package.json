@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-ace",
+  "version": "0.1.2",
+  "description": "Enables you to mix native UI and native code with your JavaScript and HTML. http://microsoft.github.io/ace",
+  "cordova": {
+    "id": "cordova-plugin-ace",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/ace"
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "xcode": "0.8.3"
+  },
+  "keywords": [
+    "cordova",
+    "native",
+    "ui",
+    "xaml",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Adam Nathan <anathan@microsoft.com>",
+  "license": "MIT"
+}

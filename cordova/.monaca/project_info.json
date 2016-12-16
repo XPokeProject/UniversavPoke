@@ -1,0 +1,32 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "5.2",
+    "plugin_settings": {
+        "cordova-plugin-crosswalk-webview": {
+            "variables": [
+                "XWALK_VERSION=14.43.343.25"
+            ]
+        }
+    },
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.0.0",
+        "cordova-plugin-splashscreen@2.1.0",
+        "cordova-plugin-crosswalk-webview@1.3.1"
+    ],
+    "title-ja": "",
+    "title-en": "Universav Poké",
+    "description-ja": "",
+    "description-en": "Read the .sav of Pokémon Games of Game Boy, like Green, Red, Blue and Yellow.",
+    "category": "User Template",
+    "platform": [
+        "android",
+        "ios",
+        "winrt",
+        "chrome"
+    ],
+    "name": "generated-1481262565-579de1b7fd17346f747c840a"
+}

@@ -1,0 +1,81 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 13135752980835099414 (0xb64b91bd67f46316)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Monaca
+        Validity
+            Not Before: Jul 31 22:47:16 2016 GMT
+            Not After : Jul 31 22:47:16 2019 GMT
+        Subject: CN=monaca-debug-app
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c0:95:fd:22:3f:17:41:59:b7:96:c0:f6:fb:47:
+                    a5:2c:2e:81:26:2e:00:c2:c6:39:bc:2c:85:56:a3:
+                    b9:40:e8:ac:d8:72:3b:ca:71:43:b4:c9:58:6b:08:
+                    f4:8b:0e:02:d7:e1:cd:9c:27:1d:c3:d3:7a:b7:95:
+                    a1:93:36:64:ba:ba:87:3d:d3:2b:ac:e6:b9:7b:7a:
+                    0c:41:f9:7c:a5:aa:90:ae:70:fa:3a:b7:5b:c8:2f:
+                    60:0e:42:de:5b:26:b1:a2:28:36:82:25:b2:87:87:
+                    8c:75:a2:dd:64:9b:18:46:bc:1f:0e:d5:c5:00:bf:
+                    c0:a5:00:23:33:0c:e4:73:e9:db:a1:77:7e:e9:35:
+                    ef:38:3e:f3:66:22:88:90:53:ed:90:e6:67:ad:1f:
+                    0a:5a:5a:f5:dd:cb:83:af:56:7b:6b:33:ba:1d:91:
+                    4d:88:d1:b6:63:65:42:b5:76:5a:19:f9:b9:eb:a9:
+                    00:a2:3a:d9:36:1f:28:eb:e9:c7:dd:9f:2a:a3:d8:
+                    a3:d0:08:98:7a:52:04:c6:32:81:44:54:39:3c:36:
+                    54:99:38:2f:32:13:99:ab:69:9e:44:90:4e:3f:5f:
+                    43:fb:87:9f:8a:1b:09:42:ed:0a:d2:d5:c9:c9:c5:
+                    af:e7:29:2a:42:0b:1f:04:2a:80:35:ca:b7:00:30:
+                    e5:89
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                66:FD:A2:D7:40:F2:53:8D:3A:BF:CB:B3:31:AC:38:D0:BC:5C:45:4E
+            X509v3 Authority Key Identifier: 
+                keyid:E1:C2:82:2D:04:9F:BC:50:9C:53:B3:61:5B:6D:6F:70:F6:CA:4F:01
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+    Signature Algorithm: sha256WithRSAEncryption
+         85:31:a1:52:f8:9b:ca:18:d7:e6:06:95:07:7a:04:09:44:10:
+         f9:94:c6:c5:c8:c3:65:11:32:e7:a6:6f:d0:af:93:d6:4f:b0:
+         c3:8f:58:f5:36:28:07:64:61:de:22:3e:7f:03:08:16:40:84:
+         40:1f:c1:34:2c:de:54:26:50:89:43:39:b3:d5:e1:18:d6:37:
+         8d:42:b7:a8:c2:ff:07:fe:3f:75:6b:2d:aa:00:51:b7:eb:16:
+         b8:ed:c0:8b:bf:73:7a:7a:d2:1a:7f:9c:d4:2f:82:71:94:7d:
+         3c:01:55:88:2b:ba:8d:07:75:65:26:d1:dd:29:f2:3a:4b:8d:
+         06:05:fc:08:5e:67:bf:b8:0f:1e:d6:f6:81:b9:b2:46:42:55:
+         22:6b:8c:da:54:27:a6:be:0a:4a:d8:ed:fb:20:dc:b1:97:8f:
+         f1:1b:1c:7d:6c:5e:90:e8:fa:74:81:e9:d5:bc:84:19:db:a8:
+         e8:ae:0a:47:93:54:b1:85:0a:77:b0:7a:62:6f:e2:8c:29:a7:
+         f5:d2:39:fb:0a:a5:1b:10:5c:2d:bd:7e:ca:ff:bb:cd:1a:f4:
+         d7:18:95:d2:01:7d:e0:db:e9:17:bd:18:bf:86:bf:1f:fa:76:
+         32:91:b7:bb:c1:76:ac:0e:c0:a9:dc:cd:6d:7d:ba:0b:68:8d:
+         d7:24:86:58
+-----BEGIN CERTIFICATE-----
+MIIDQTCCAimgAwIBAgIJALZLkb1n9GMWMA0GCSqGSIb3DQEBCwUAMBExDzANBgNV
+BAMTBk1vbmFjYTAeFw0xNjA3MzEyMjQ3MTZaFw0xOTA3MzEyMjQ3MTZaMBsxGTAX
+BgNVBAMTEG1vbmFjYS1kZWJ1Zy1hcHAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDAlf0iPxdBWbeWwPb7R6UsLoEmLgDCxjm8LIVWo7lA6KzYcjvKcUO0
+yVhrCPSLDgLX4c2cJx3D03q3laGTNmS6uoc90yus5rl7egxB+XylqpCucPo6t1vI
+L2AOQt5bJrGiKDaCJbKHh4x1ot1kmxhGvB8O1cUAv8ClACMzDORz6duhd37pNe84
+PvNmIoiQU+2Q5metHwpaWvXdy4OvVntrM7odkU2I0bZjZUK1dloZ+bnrqQCiOtk2
+Hyjr6cfdnyqj2KPQCJh6UgTGMoFEVDk8NlSZOC8yE5mraZ5EkE4/X0P7h5+KGwlC
+7QrS1cnJxa/nKSpCCx8EKoA1yrcAMOWJAgMBAAGjgZEwgY4wCQYDVR0TBAIwADAs
+BglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYD
+VR0OBBYEFGb9otdA8lONOr/LszGsONC8XEVOMB8GA1UdIwQYMBaAFOHCgi0En7xQ
+nFOzYVttb3D2yk8BMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3DQEBCwUA
+A4IBAQCFMaFS+JvKGNfmBpUHegQJRBD5lMbFyMNlETLnpm/Qr5PWT7DDj1j1NigH
+ZGHeIj5/AwgWQIRAH8E0LN5UJlCJQzmz1eEY1jeNQreowv8H/j91ay2qAFG36xa4
+7cCLv3N6etIaf5zUL4JxlH08AVWIK7qNB3VlJtHdKfI6S40GBfwIXme/uA8e1vaB
+ubJGQlUia4zaVCemvgpK2O37INyxl4/xGxx9bF6Q6Pp0genVvIQZ26jorgpHk1Sx
+hQp3sHpib+KMKaf10jn7CqUbEFwtvX7K/7vNGvTXGJXSAX3g2+kXvRi/hr8f+nYy
+kbe7wXasDsCp3M1tfboLaI3XJIZY
+-----END CERTIFICATE-----
