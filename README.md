@@ -1,4 +1,4 @@
-﻿# Readme for Pok&#233; Universav #
+# Readme for Universav Pok&#233; #
 
 2013-2015 Lyndon Armitage (creator of HTML5 Pokémon Save Reader)
 
