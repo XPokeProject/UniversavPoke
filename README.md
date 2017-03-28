@@ -7,6 +7,8 @@
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
 Made for fun, and educational purposes only.
 
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the license.
+
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.plasmmer.pokeuniversav&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/pt_BR/badges/images/generic/en_badge_web_generic.png'/></a></p>
 
 ## Current Version: ##
