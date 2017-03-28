@@ -35,6 +35,6 @@ Note that this may crash your browser for files with a lot of bytes (i.e. bigger
 
 ### Copyright: ###
 
-Pok&#233;mon © 2002-2016 Pok&#233;mon. © 1995-2016 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
+Pok&#233;mon © 2002-2017 Pok&#233;mon. © 1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
 
 Google Play and the Google Play logo are trademarks of Google Inc.
