@@ -7,11 +7,6 @@
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
 Made for fun, and educational purposes only.
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the license.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the text of the GNU General Public License below for more details.
-
-
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.plasmmer.pokeuniversav&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/pt_BR/badges/images/generic/en_badge_web_generic.png'/></a></p>
 
 ## Current Version: ##
@@ -37,6 +32,11 @@ Can currently open a .sav file and read the following:
 
 I have also created a small Hex Viewer using the HTML5 File API and Storage API that let's you view a files contents and write notes.
 Note that this may crash your browser for files with a lot of bytes (i.e. bigger files). I have only tested it with .sav files which are 32kb large.
+
+## Notes ##
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the license.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the text of the GNU General Public License below for more details.
 
 ### Copyright: ###
 
