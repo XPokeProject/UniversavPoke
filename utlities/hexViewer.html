@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>File Hex Viewer</title>
+	<link type="text/css" rel="stylesheet" href="css/hex.css">
+</head>
+<body>
+
+<h1>Basic Hex Viewer</h1>
+
+<div id="inputSection">
+	<h3>Options</h3>
+	<label> Choose File: <input type='file' id='fileInput' name='savefile'/></label><br />
+	<label>Go To Hex: <input type="text" id='gotoBox' name='gotoBox' /></label><span id='gotoResult'></span><br />
+	<div id="notesSection">
+		<div class='label'>Notes: </div><textarea id='noteBox' name='noteBox'></textarea>
+		<input type="button" name="saveNotes" id="saveNotes" value="Save Notes" />
+		<input type="button" name="clearNotes" id="clearNotes" value="Clear Notes" /><br />
+		<div id='debugData'></div>
+	</div>
+</div>
+
+<div id="container">
+	<h2>Please select a file to begin</h2>
+</div>
+
+<script type="text/javascript" src="../js/lib/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="js/hexViewer.js"></script>
+</body>
+</html>

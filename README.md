@@ -2,7 +2,7 @@
 
 2013-2015 Lyndon Armitage (creator of HTML5 Pokémon Save Reader)
 
-2015-2017 Daniell Plasmmer (CEO of Universav organization)
+2015-2018 Plasmmer (CEO of Universav organization)
 
 This is a HTML5 implementation of a Pok&#233;mon Red, Blue and Yellow save game viewer (and possibly editor in the future).
 Made for fun, and educational purposes only.
@@ -40,6 +40,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ### Copyright: ###
 
-Pok&#233;mon © 2002-2017 Pok&#233;mon. © 1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
+Pok&#233;mon © 2002-2018 Pok&#233;mon. © 1995-2018 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pok&#233;mon character names are trademarks of Nintendo.
 
 Google Play and the Google Play logo are trademarks of Google Inc.

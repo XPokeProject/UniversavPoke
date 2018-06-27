@@ -1,0 +1,14 @@
+Can hide topbar via Settings
+Settings popunder
+
+* "Welcome again, Username!" message using modern OS permissions (get username | local storage);
+
+
+
+H:\Plasmmer\Add\2- DCRS
+
+* Sync dos saves entre dispositivos (DropBox)
+
+Universav Poké Widgets:
+* Favorites
+* Save Editor
